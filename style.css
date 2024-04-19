@@ -10,6 +10,11 @@ body {
     font-family: sans-serif;
 }
 
+#cont-box {
+    border: 1px solid white;
+    padding: 0.5rem;
+}
+
 #cont-box div {
     font-weight: bold;
     color: black;
